@@ -1,0 +1,9 @@
+ve/
+share/static/fonts/
+*.pyc
+data/
+log/
+.idea/
+*.swp
+*.mmdb
+*.dat
